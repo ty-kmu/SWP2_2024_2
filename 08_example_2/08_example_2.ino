@@ -55,7 +55,6 @@ void loop() {
   Serial.print("Min:");        Serial.print(_DIST_MIN);
   Serial.print(",distance:");  Serial.print(distance);
   Serial.print(",Max:");       Serial.print(_DIST_MAX);
-  Serial.print(",brightness:");       Serial.print(brightness);
   Serial.println("");
   
   // do something here
